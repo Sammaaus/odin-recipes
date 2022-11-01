@@ -1,0 +1,6 @@
+1. Create Repo in Git
+2. code-SSH-copy url
+3. Open terminal/git bash - cd repos/
+4. run clone command: git clone 'url'
+5. cd 'repo name'
+6. run command code . to open text editor
