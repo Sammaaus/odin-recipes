@@ -4,3 +4,6 @@
 4. run clone command: git clone 'url'
 5. cd 'repo name'
 6. run command code . to open text editor
+7.once finish in the text editor - run terminal - git add . to add all changes
+8. then run git commit -m "file a and file b and file c" to commit changes
+9. git push to upload
